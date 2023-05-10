@@ -37,5 +37,5 @@ app.use(function (err, req, res, next) {
 // module.exports = app
 const port = process.env.PORT || 3000
 
-app.listen(port, () => console.info(`Server is up on http://localhost:${port}`))
+app.listen(port, () => console.info(`Server is up on https://cloudinary-link-next.vercel.app:${port}`))
 
