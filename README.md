@@ -14,6 +14,8 @@ This code demonstrates two ways of performing a signed upload to Cloudinary from
   * routes/signuploadform.js
 
 ## Setup instructions (after cloning from GitHub)
+![cloudinari](https://github.com/Ghepes/cloudinary-link-next/assets/39159631/e4df85cc-8ea9-4285-899f-d743c7d32637)
+![cloudinari-API](https://github.com/Ghepes/cloudinary-link-next/assets/39159631/9bbee241-2a27-474f-b083-ac58622dcae2)
 
 1. Install all dependencies from the top level:
 
