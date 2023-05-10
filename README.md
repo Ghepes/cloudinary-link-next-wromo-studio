@@ -36,7 +36,7 @@ This code demonstrates two ways of performing a signed upload to Cloudinary from
 1. Open **signed-uploads/public/js/config.js**
 2. Set `cloud_name`, `api_key` and `api_secret` with the corresponding account details from your Cloudinary dashboard.
 3. Go to Cloudinary for API key end API  Secret,
-4. API Copy to :  -  signed-uploads/public/js/config.js
+4. API Copy to :   signed-uploads/public/js/config.js
 5. Click **View App**.
 
 ## Links
