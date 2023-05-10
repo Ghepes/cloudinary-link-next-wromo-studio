@@ -35,7 +35,14 @@ app.use(function (err, req, res, next) {
 })
 
 // module.exports = app
-const DOMAIN = process.DOMAIN
+const SERVER = process.SERVER
 
-app.listen(DOMAIN, () => console.info(`Server is up on https://cloudinary-link-next.vercel.app`))
+app.listen(SERVER, () => console.info(`Server is up on 0.0.0.0:${SERVER}!`))
+
+
+// Server started
+
+module.exports = app
+
+
 
