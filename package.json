@@ -8,9 +8,10 @@
     "url": "git+https://github.com/carlevison/cld-signed-upload"
   },
   "scripts": {
-    "start": "node signed-uploads/app.js"
+    "start": "node signed-uploads/app.js",
+    "server": "nodemon index.js"
   },
-  "author": "",
+  "author": "Ghepes",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/carlevison/cld-signed-upload/issues"
