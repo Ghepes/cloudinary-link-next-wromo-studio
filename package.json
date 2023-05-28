@@ -2,7 +2,7 @@
   "name": "cld-signed-upload",
   "version": "1.0.0",
   "description": "Demonstration of a signed upload from the browser, using a server to create the signature.",
-  "main": "./signed-uploads/server/public/index.html",
+  "main": "./signed-uploads/public/index.html",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/carlevison/cld-signed-upload"
