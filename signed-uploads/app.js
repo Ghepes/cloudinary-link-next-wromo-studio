@@ -35,14 +35,7 @@ app.use(function (err, req, res, next) {
 })
 
 // module.exports = app
-const SERVER = process.SERVER
+const port = process.env.PORT || 3000
 
-app.listen(SERVER, () => console.info(`Server is up on 0.0.0.0:${SERVER}!`))
-
-
-// Server started
-
-module.exports = app
-
-
+app.listen(port, () => console.info(`Server is up on http://localhost:${port}`))
 
