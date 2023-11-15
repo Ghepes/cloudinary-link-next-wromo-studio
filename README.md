@@ -1,6 +1,7 @@
 # Cloudinary signed upload examples
 
 This code demonstrates two ways of performing a signed upload to Cloudinary from the browser, using a server to create the signature. One uses Cloudinary's upload widget, the other uses a standard HTML form.
+![gloudinary](https://github.com/Ghepes/cloudinary-link-next-wromo-studio/assets/39159631/10a392cd-ebf4-4c55-8075-25b42a1c7ca7)
 
 * Files specific to signed upload using Cloudinary's upload widget:
   * modules/signuploadwidget.js
