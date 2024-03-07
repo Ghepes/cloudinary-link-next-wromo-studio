@@ -38,6 +38,6 @@ This code demonstrates two ways of performing a signed upload to Cloudinary from
 
 ## Links
 
-GitHub: [https://github.com/cloudinary-devs/cld-signed-upload-examples](https://github.com/cloudinary-devs/cld-signed-upload-examples)
+GitHub: [https://github.com/Ghepes/cloudinary-link-next-wromo-studio](https://github.com/Ghepes/cloudinary-link-next-wromo-studio)
 
 Glitch: [https://glitch.com/~cld-signed-upload-examples](https://glitch.com/~cld-signed-upload-examples)
