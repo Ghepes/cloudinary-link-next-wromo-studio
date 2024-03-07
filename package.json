@@ -1,25 +1,50 @@
 {
-  "name": "cld-signed-upload",
-  "version": "1.0.0",
-  "description": "Demonstration of a signed upload from the browser, using a server to create the signature.",
+  "name": "cloudinary-link-next-wromo-studio",
+  "version": "1.0.1",
+  "description": "A signed upload from the browser, using a server to create the signature.",
   "main": "./signed-uploads/public/index.html",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/carlevison/cld-signed-upload"
+    "url": "git+https://github.com/ghepes/cloudinary-link-next-wromo-studio.git"
   },
   "scripts": {
     "start": "node signed-uploads/app.js",
     "server": "nodemon index.js"
   },
   "author": "Ghepes",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/carlevison/cld-signed-upload/issues"
+    "url": "https://github.com/ghepes/cloudinary-link-next-wromo-studio/issues"
   },
-  "homepage": "https://github.com/carlevison/cld-signed-upload#readme",
+  "homepage": "https://github.com/ghepes/cloudinary-link-next-wromo-studio#readme",
   "dependencies": {
+    "bytes": "^3.1.2",
     "cloudinary": "^1.21.0",
-    "express": "~4.18.2",
-    "http-errors": "~1.6.3"
-  }
+    "cloudinary-core": "^2.13.0",
+    "content-type": "^1.0.5",
+    "core-js": "^3.36.0",
+    "depd": "^2.0.0",
+    "express": "^4.18.2",
+    "http-errors": "^1.6.3",
+    "iconv-lite": "^0.6.3",
+    "lodash": "^4.17.21",
+    "mime-types": "^2.1.35",
+    "negotiator": "^0.6.3",
+    "on-finished": "^2.4.1",
+    "pnpm-shrinkwrap": "^8.1.6",
+    "q": "^1.5.1",
+    "qs": "^6.12.0",
+    "raw-body": "^2.5.2",
+    "type-is": "^1.6.18"
+  },
+  "keywords": [
+    "cloudinary",
+    "link",
+    "next",
+    "wromo"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
 }
